@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.alura.com.br/artigos/assets/o-que-e-front-end-e-back-end/o-que-e-front-end-back-end.jpg" alt="Software Developer">
+  <img src="" alt="Software Developer">
 </div>
 
 # 🚀 Olá, eu sou Andrez Gabriel - PROGRAMADOR FULL-STACK
@@ -36,12 +36,19 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrez-gabriel-4848631a3)](https://www.linkedin.com/in/andrez-gabriel-4848631a3)
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-%2304CC0D?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5581999706477)](https://wa.me/5581999706477)
 
 
 
-![Snake animation](https://github.com/andrezgabriel/andrezgabriel/blob/output/github-contribution-grid-snake.svg)
+[![Andrez Gabriel](https://github-readme-stats.vercel.app/api?username=andrezgabriel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezgabriel&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ChatGPT Image 14 de mai. de 2025, 14_47_46.png" alt="Software Developer" width="300" height="400">
+  <img src="https://www.gabrielcorralcardenas.com/content/images/size/w2000/2024/03/web3.gif" alt="Software Developer">
 </div>
 
 # 🚀 Olá, eu sou Andrez Gabriel - PROGRAMADOR FULL-STACK

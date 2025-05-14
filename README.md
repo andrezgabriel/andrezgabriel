@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://www.gabrielcorralcardenas.com/content/images/size/w2000/2024/03/web3.gif" alt="Software Developer">
+  <img align="center" alt=""  height="200px" width="400px" 
+    src="https://cdn.pixabay.com/animation/2022/10/19/02/45/02-45-03-592_512.gif" alt="Typing SVG">
 </div>
 
-# 🚀 Olá, eu sou Andrez Gabriel - PROGRAMADOR FULL-STACK
+<h2> # 🚀 Olá, eu sou Andrez Gabriel - PROGRAMADOR FULL-STACK </h2>
 
-## Sobre mim
+ ## Sobre mim 
 
 ⭐ Atualmente me dedico aos estudos em Programação Full Stack, com foco em desenvolvimento web (front-end e back-end). Estou em busca de uma oportunidade de estágio ou primeiro emprego para aplicar meus conhecimentos, aprender novas habilidades e crescer profissionalmente. Sou dedicado, proativo e sempre disposto a contribuir com equipes e projetos. ⭐
 

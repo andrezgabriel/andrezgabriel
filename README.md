@@ -24,7 +24,7 @@
 
 ## Projetos Criativos
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+🎨 Aqui estão alguns dos meus projetos:
 
 1. [TELA DE LOGIN DARK](https://github.com/andrezgabriel/tela-login-dark): projeto que consiste em criar uma tela de login com o tema DARK, design responsivo e animação.
 2. [INTERFACE TIKTOK](https://github.com/andrezgabriel/tiktok_ADS): Projeto facultativo que consistia em recriar a interface da rede social TikTok.

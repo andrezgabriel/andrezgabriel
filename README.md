@@ -37,17 +37,22 @@
 
 ## Vamos Conectar!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrez-gabriel-4848631a3)](https://www.linkedin.com/in/andrez-gabriel-4848631a3)
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrez-gabriel-4848631a3">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/5581999706477">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2304CC0D?style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:andrezgabriel8@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-[![Whatsapp](https://img.shields.io/badge/-WhatsApp-%2304CC0D?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5581999706477)](https://wa.me/5581999706477)
-
-[![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white&link=mailto:andrezgabriel8@gmail.com)](mailto:andrezgabriel8@gmail.com)
-
-
-
-[![Andrez Gabriel](https://github-readme-stats.vercel.app/api?username=andrezgabriel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezgabriel&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrezgabriel&theme=dark" alt="Andrez Gabriel GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezgabriel&hide=html&layout=compact&theme=dark" alt="Top Langs" height="160"/>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezgabriel/andrezgabriel/output/github-contribution-grid-snake-dark.svg">

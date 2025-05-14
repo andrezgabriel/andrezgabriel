@@ -40,6 +40,8 @@
 
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-%2304CC0D?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5581999706477)](https://wa.me/5581999706477)
 
+[![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white&link=mailto:andrezgabriel8@gmail.com)](mailto:andrezgabriel8@gmail.com)
+
 
 
 [![Andrez Gabriel](https://github-readme-stats.vercel.app/api?username=andrezgabriel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -28,8 +28,9 @@
 🎨 Aqui estão alguns dos meus projetos:
 
 1. [TELA DE LOGIN DARK](https://github.com/andrezgabriel/tela-login-dark): projeto que consiste em criar uma tela de login com o tema DARK, design responsivo e animação.
-2. [INTERFACE TIKTOK](https://github.com/andrezgabriel/tiktok_ADS): Projeto facultativo que consistia em recriar a interface da rede social TikTok.
-3. [BIBLIOTECA](https://github.com/andrezgabriel/atividade_react): Projeto facultativo que consiste em criar um aplicativo para uma biblioteca para fazer o controle de empréstimos e devolução de livros.
+2. [CONVERSOR DE MOEDAS](https://github.com/andrezgabriel/Conversor-Moeda-Simples.git):Projeto de conversor de moedas que utiliza a API Fixer.io para obter taxas de câmbio atualizadas em tempo real. Com interface simples e funcional, permite converter valores do Real para várias moedas internacionais, garantindo precisão e rapidez na conversão diretamente no navegador.
+3. [CLIMA MUNDO](https://github.com/andrezgabriel/Clima-Mundo.git):Aplicação web interativa que consulta o clima atual e previsão de 5 dias para qualquer cidade usando a API do OpenWeather. Exibe ícones ilustrativos, temperatura e condições, com design moderno, colorido e responsivo para desktop e mobile. Ótimo para aprender APIs, JavaScript e CSS.
+4. [BIBLIOTECA](https://github.com/andrezgabriel/atividade_react): Projeto facultativo que consiste em criar um aplicativo para uma biblioteca para fazer o controle de empréstimos e devolução de livros.
 
 ## Vamos Criar Algo Incrível! 💫
 
